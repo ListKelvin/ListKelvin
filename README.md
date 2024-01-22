@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ListKelvin
-- 👀 I’m interested in experience
-- 🌱 I’m currently learning english and improving myself
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 0348485167 or Email: phamm5687@gmail.com
 
 <!---
