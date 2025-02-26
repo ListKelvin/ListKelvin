@@ -11,10 +11,6 @@
 </div>
 
 
-## Profile Views
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ListKelvin&label=Profile%20Views&color=3&icon=2&pretty=false" />
-</a>
 
 <!---
 ListKelvin/ListKelvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
