@@ -7,7 +7,6 @@
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ListKelvin&theme=tokyonight&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ListKelvin&theme=tokyonight&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ListKelvin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /><br/>
 </div>
 
 
